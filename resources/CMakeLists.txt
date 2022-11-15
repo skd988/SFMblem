@@ -1,0 +1,38 @@
+﻿configure_file ("level1.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level2.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level3.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("level1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level2.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level3.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("Cursor.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("mainMenu.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("Sword.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Lance.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Bow.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Stuff.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("SpellBook.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("blueArmySoldier.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("blueArmyArcher.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("blueArmyCavalier.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("blueArmyKnight.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("blueArmyBishop.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("blueArmyMage.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("redArmySoldier.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("redArmyArcher.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("redArmyCavalier.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("redArmyKnight.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("redArmyBishop.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("redArmyMage.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("battleMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("backgroundMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("mainMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("levelPassedMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("levelPassedMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("winningMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file (C:/SFML/SFML-2.5.1/bin/openal32.dll ${CMAKE_BINARY_DIR} COPYONLY)
